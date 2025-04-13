@@ -386,3 +386,5 @@ Nếu không thể cập nhật ngay, có thể áp dụng các biện pháp sau
 - **Theo dõi việc tạo đột ngột các file thực thi với quyền root**
 - **Kiểm tra các thư mục bất thường** được tạo với định dạng GCONV_PATH=
 - **Sử dụng các công cụ phát hiện xâm nhập** như OSSEC, Wazuh hoặc CrowdStrike
+
+**Lưu ý: Báo cáo chỉ mang tính chất mô phỏng lại khai thác CVE-2021-4034 để phục vụ mục đích học tập.**
